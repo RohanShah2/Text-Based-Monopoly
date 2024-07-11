@@ -1,0 +1,1 @@
+This is a text based monpoly game meant for four players. There are no boards or graphics. It is not fully complete and there still may be some bugs but it still shoudl mostly work as intended. Thanks!
